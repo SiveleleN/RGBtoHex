@@ -1,0 +1,25 @@
+body {
+    background-color: blueviolet;
+    color: bisque;
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#app {
+    text-align: center;
+}
+
+input {
+    padding: 5px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+    color: navy;
+}
